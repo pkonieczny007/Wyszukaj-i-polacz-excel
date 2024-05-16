@@ -1,0 +1,15 @@
+Stwórz program/skrypt python, który po wskazaniu lokalizacji przeszuka folder i wszystkie ponizej, 
+znajdzie pliki xlsx i xlsm, ktore zaczynaja sie na 
+"Produktionsstückliste"
+Następnie utworzy Data Frame danymi z kolumn:
+"""
+Stufe
+Bezeichnung.............................
+Zeinr
+ZEF
+Gewicht
+"""
+
+możesz użyc biblioteki pandas.
+
+Następnie stworz plik dane z tymi kolumnami plus kolumna z jakiego pliku pochodzi

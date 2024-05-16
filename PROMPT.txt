@@ -1,0 +1,6 @@
+Stwórz program/skrypt python, który po wskazaniu lokalizacji przeszuka folder i wszystkie ponizej, 
+znajdzie pliki xlsx i xlsm, ktore zaczynaja sie na 
+"Produktionsstückliste"
+następnie zapisze kopie plikow w lokalizacji: C:DANE
+
+możesz użyc biblioteki pandas
